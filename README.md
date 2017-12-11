@@ -1,0 +1,2 @@
+# 11.12.2017
+Yaradılma səbəbi : versiya kontrol sistetemidir.Birneçe programist lahiyə üzərindəçalışır.Biri kodu yazır və digərləridə bu kodu onun yazdığı yerdən götürüb istifadə edir. Bu sistemin yaradılmasəbəbi isə eyni lahiya üzərində işləyən lakin bir birinden fərqli işləri görən insanların bir komanda şəraitində işləməsinə imkan yaradır. Məsələn bir veb sayt yaradarkən biri heminsehfennin interfeysi üzərində biri arxa planda işləməsinə kömek edir.Bizde yazdığımız kodları bura əlavə etməklə digər programistlrə kömək etmiş oluruq.
